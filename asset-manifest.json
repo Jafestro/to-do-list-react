@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jafestro/to-do-list-react.git/static/css/main.0597ef04.css",
+    "main.js": "/Jafestro/to-do-list-react.git/static/js/main.3aedf004.js",
+    "static/js/787.686d3523.chunk.js": "/Jafestro/to-do-list-react.git/static/js/787.686d3523.chunk.js",
+    "index.html": "/Jafestro/to-do-list-react.git/index.html",
+    "main.0597ef04.css.map": "/Jafestro/to-do-list-react.git/static/css/main.0597ef04.css.map",
+    "main.3aedf004.js.map": "/Jafestro/to-do-list-react.git/static/js/main.3aedf004.js.map",
+    "787.686d3523.chunk.js.map": "/Jafestro/to-do-list-react.git/static/js/787.686d3523.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0597ef04.css",
+    "static/js/main.3aedf004.js"
+  ]
+}
