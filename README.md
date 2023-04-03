@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# To-do-list-react App
+This is a Todo List application built using React and Material UI, which allows users to add, delete and view their todos in a table format using the Ag-Grid library. The data is stored and fetched from Firebase Realtime Database. The UI is designed with a responsive AppBar and a dialog box for adding new todos. The repository contains the source code for both the main app and the AddTodo component.
+
+
+##
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
